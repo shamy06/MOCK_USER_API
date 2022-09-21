@@ -5,65 +5,35 @@
     "name": "Amit Singh",
     "username": "amit0189",
     "email": "User1@gmail.com",
-    "address": {
-      "street": "MG Road",
-      "suite": "Apt. 556",
-      "city": "Pune",
-      "zipcode": "4601101"
-    },
-    "phone": "123456789"
+    "password": "abcd"
   },
   {
     "id": 2,
     "name": "Victor Howell",
     "username": "vicHowell007",
     "email": "victor.Howeel@ymail.com",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771"
-    },
-    "phone": "1125124129"
+    "password": "1234"
   },
   {
     "id": 3,
     "name": "Shyam Somesh",
     "username": "somesh899",
     "email": "shyamsomesh111@gmail.com",
-    "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157"
-    },
-    "phone": "1463123444"
+    "password": "shyam"
   },
   {
     "id": 4,
     "name": "Patric Lebsack",
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
-    "address": {
-      "street": "Hoeger Mall",
-      "suite": "Apt. 692",
-      "city": "South Elvis",
-      "zipcode": "53919-4257"
-    },
-    "phone": "4931709623"
+    "password": "password1"
   },
   {
     "id": 5,
     "name": "Chelsey Dietrich",
     "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",
-    "address": {
-      "street": "Skiles Walks",
-      "suite": "Suite 351",
-      "city": "Roscoeview",
-      "zipcode": "33263"
-    },
-    "phone": "2549541289"
+    "password": "password2"
   }
 ]
 }

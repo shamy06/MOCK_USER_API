@@ -1,35 +1,30 @@
 {
   "Users":[
   {
-    "id": 1,
     "name": "Amit Singh",
     "username": "amit0189",
     "email": "User1@gmail.com",
     "password": "abcd"
   },
   {
-    "id": 2,
     "name": "Victor Howell",
     "username": "vicHowell007",
     "email": "victor.Howeel@ymail.com",
     "password": "1234"
   },
   {
-    "id": 3,
     "name": "Shyam Somesh",
     "username": "somesh899",
     "email": "shyamsomesh111@gmail.com",
     "password": "shyam"
   },
   {
-    "id": 4,
     "name": "Patric Lebsack",
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
     "password": "password1"
   },
   {
-    "id": 5,
     "name": "Chelsey Dietrich",
     "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",

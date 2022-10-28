@@ -2,31 +2,31 @@
   "Users":[
   {
     "name": "Amit Singh",
-    "username": "amit0189",
+    "userName": "amit0189",
     "id":[],
     "password": "Abcd@1"
   },
   {
     "name": "Victor Howell",
-    "username": "vicHowell007",
+    "userName": "vicHowell007",
     "id":[],
     "password": "1234A@"
   },
   {
     "name": "Shyam Somesh",
-    "username": "somesh899",
+    "userName": "somesh899",
     "id":[],
     "password": "Shyam@1"
   },
   {
     "name": "Patric Lebsack",
-    "username": "Karianne",
+    "userName": "Karianne",
     "id":[],
     "password": "Password@1"
   },
   {
     "name": "Chelsey Dietrich",
-    "username": "Kamren",
+    "userName": "Kamren",
     "id":[],
     "password": "Password@2"
   }
